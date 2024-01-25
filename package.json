@@ -1,0 +1,36 @@
+{
+  "name": "telinsta",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "cloudinary": "^1.30.0",
+    "crypto-js": "^4.1.1",
+    "firebase": "^9.8.4",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.3.5",
+    "next": "12.1.6",
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "react-facebook": "^8.1.4",
+    "react-icons": "^4.4.0",
+    "react-images-uploading": "^3.1.6",
+    "react-input-emoji": "^4.1.0",
+    "react-toastify": "^9.0.3",
+    "react-top-loading-bar": "^2.1.0",
+    "socket.io": "^4.5.1",
+    "socket.io-client": "^4.5.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.7",
+    "eslint": "8.16.0",
+    "eslint-config-next": "12.1.6",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.0.24"
+  }
+}
